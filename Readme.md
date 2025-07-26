@@ -27,7 +27,7 @@ The dashboard provides insights into:
 
 ## 🖼️ Dashboard Preview
 
-![Sales Performance Dashboard](./Screenshot%202025-07-26%20114421.png)
+![Sales Performance Dashboard](https://github.com/harsit6299/-Sales-Performance-Dashboard-Power-Practice-Project/blob/19862a562b9207f6bf421e3027071c3cbf7fa8cf/Snapshot.png)
 
 > *An interactive and KPI-rich view of sales trends, product lines, and business health.*
 
